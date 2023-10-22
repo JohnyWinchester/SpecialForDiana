@@ -1,0 +1,13 @@
+h1 {
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+}
+
+.header_img{
+    display: block;
+    min-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 6em;
+}
